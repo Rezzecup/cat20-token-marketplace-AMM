@@ -110,23 +110,13 @@ Creating a detailed codebase for an Automated Market Maker (AMM) involves severa
 cat20-token-marketplace-AMM/
 │
 ├── backend/
-│   ├── src/
-│   │   ├── amm.ts
-│   │   ├── index.ts
-│   │   ├── network.ts
-│   │   └── token.ts
-│   ├── package.json
-│   └── tsconfig.json
-│
-├── contracts/
-│   ├── AMM.sol
-│   └── Token.sol
-│
-└── frontend/
     ├── src/
+    │   ├── amm.ts
+    │   ├── index.ts
+    │   ├── network.ts
+    │   └── token.ts
     ├── package.json
-    └── ...
-
+    └── tsconfig.json
 ```
 
 ### `backend/src/amm.ts`
