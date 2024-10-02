@@ -71,8 +71,6 @@ Tokens can be purchased from the `/purchase` endpoint, specifying the desired to
 
 ## Detailed Code Explanation
 
-### Sample TypeScript Implementation
-
 ```typescript
 import { AMM } from './amm';
 import { Token } from './token';
