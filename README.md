@@ -222,10 +222,8 @@ class Token {
 export { Token };
 ```
 
-### Frontend
-
-For the frontend, you can use a modern JavaScript framework like React. It would interact with the backend to perform actions like listing and purchasing tokens.
-
 ## Contact Info:
+
+If you have technical issues and development inquiries, please contact here.
 - Twitter: https://x.com/rez_cats/
 - Telegram: https://t.me/rizz_cat/
