@@ -6,7 +6,7 @@ This project implements an Automatic Market Maker (AMM) for CAT20 tokens on the 
 
 The CAT20 Token Marketplace AMM enables users to:
 
-- List CAT20 tokens for sale.
+- List CAT20 tokens for sale. 
 - Purchase CAT20 tokens from other users.
 - Automatically execute buy and sell orders.
 
